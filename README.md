@@ -1,1 +1,1 @@
-ECHO est† activado.
+Proyecto de colecci√≥n.
